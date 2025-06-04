@@ -20,6 +20,10 @@ Hello and welcome! 👋<br>I'm Rishit , an aspiring entrepreneur and passionate 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<a href="#">
+<img alt="LemonDrop's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=polty-rishit&theme=tokyo-night&hide_border=true"/>
+</a>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=polty-rishit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
